@@ -1,0 +1,28 @@
+.bg-dark{
+	background-color: maroon !important;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 28px;
+	
+}
+.navbar-dark .nav-link .navbar-nav{
+	font-weight: 700px;
+	font-size: 14px;
+	color: white;
+
+}
+.navbar-dark .nav-link .navbar-nav{
+	/*margin: 0 10px;*/
+}
+.nav-link .nav-link {
+	color: white;
+}
+.nav-item{
+	/*margin-right:40px;*/
+}
+li a:hover {
+  background-color: red;
+}
+
